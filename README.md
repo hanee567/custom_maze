@@ -1,1 +1,1 @@
-# PathFindingVisualizer
+# Custom maze solver
